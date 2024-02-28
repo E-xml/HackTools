@@ -1,7 +1,8 @@
 Only available on Ubuntu system
+
 Type the command "ht" to launch the program
 
-Type "/?" to have all orders available
+On the programs, type "/?" to have all orders available
 
 My address: azertypatata8@gmail.com (Yeah, it's a weird name)
 
